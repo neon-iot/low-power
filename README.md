@@ -16,14 +16,14 @@ The student will approve the course by attending a series of lectures, performin
 ## What you will learn
 The student will learn about techniques and methodologies used in the design of low-power digital electronic systems. This includes power estimation and measurement techniques. At the end of the course, the student will be able to understand and characterize the consumption of a digital system, apply power reduction techniques, and incorporate the power consumption variable from early stages in new designs. The course is oriented towards digital hardware design, but it also covers embedded systems with microcontrollers.
 
-## What you will need:
+## What you will need
 **Required skills**
 * Fundamentals in electronics.
 * MOS transistor.
 
-**Recomended skills**
+**Recommended skills**
 * CAD tools for digital design.
-* Hardware Description Lenguages (VHDL).
+* Hardware Description Languages (VHDL).
 * FPGAs.
 * Electrical measurements.
 
@@ -34,7 +34,7 @@ The student will learn about techniques and methodologies used in the design of 
 * Analog Discovery 2 from Digilent (or oscilloscope, signal generator, logic analyzer, and variable power supply).
 * [Power analyzer and power supply](https://www.qoitech.com/otii/).
 
-## Authors:
+## Authors
 * Federico Favaro
 * Juan Pablo Oliver
 
