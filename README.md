@@ -1,6 +1,6 @@
 # Low-Power Digital Desgin
 ## About this course
-The student will approve the course by attending a series of lectures, performing hands-on laboratories, and carrying out a final project or essay. This course consists of 12 hours of lectures, 18 hours of hands-on laboratories, 4 hours for consultations, and 70 hours to develop the project. The course lasts fifteen weeks. The responsible for this course is Juan Pablo Olvier at FING/UDELAR, Montevideo, Uruguay.
+The student will approve the course by attending a series of lectures, performing hands-on [laboratories](laboratories/README.md), and carrying out a final project or essay. This course consists of 12 hours of lectures, 18 hours of hands-on laboratories, 4 hours for consultations, and 70 hours to develop the project. The course lasts fifteen weeks. The responsible for this course is Juan Pablo Olvier at FING/UDELAR, Montevideo, Uruguay.
 
 ## Main topics
 * **Introduction to low-power electronics.** Historic review of low power electronics and introduction to energy and power concepts.
@@ -50,3 +50,4 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+![logo_neon_erasmus](https://github.com/neon-iot/iotprogramming/blob/main/images/BannerSupportErasmus.png) 
