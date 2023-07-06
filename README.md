@@ -32,7 +32,7 @@ The student will learn about techniques and methodologies used in the design of 
 * A [FPGA-based board](https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/cyclone/10-lp-evaluation-kit.html) enabled to measure core power consumption.
 * A [microcontroller-based board](https://www.ti.com/tool/MSP-EXP430G2ET) enabled to measure core power consumption.
 * Analog Discovery 2 from Digilent (or oscilloscope, signal generator, logic analyzer, and variable power supply).
-* Power analyzer and power supply: [ARC Otii](https://www.qoitech.com/otii-arc-pro/) and [R&S NGU 201](https://www.rohde-schwarz.com/us/products/test-and-measurement/dc-power-supplies/rs-ngu-source-measure-units_63493-1005128.html).
+* Power supply and analyzer: [ARC Otii](https://www.qoitech.com/otii-arc-pro/), [R&S NGU 201](https://www.rohde-schwarz.com/us/products/test-and-measurement/dc-power-supplies/rs-ngu-source-measure-units_63493-1005128.html).
 
 ## Authors
 * Federico Favaro
