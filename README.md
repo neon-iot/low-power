@@ -29,7 +29,7 @@ The student will learn about techniques and methodologies used in the design of 
 
 **Required hardware**
 * A [CMOS Dual Complementary Pair Plus Inverter](https://www.ti.com/product/CD4007UB) IC and resistors, capacitors, breadboard, etc.
-* A [FPGA-based board](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=163&No=921&PartNo=1) enabled to measure core power consumption.
+* A [FPGA-based board](https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/cyclone/10-lp-evaluation-kit.html) enabled to measure core power consumption.
 * A [microcontroller-based board](https://www.ti.com/tool/MSP-EXP430G2ET) enabled to measure core power consumption.
 * Analog Discovery 2 from Digilent (or oscilloscope, signal generator, logic analyzer, and variable power supply).
 * [Power analyzer and power supply](https://www.qoitech.com/otii/).
