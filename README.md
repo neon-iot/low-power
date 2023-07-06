@@ -1,20 +1,20 @@
-# Low-Power Digital Desgin
+# Low-Power Digital Design
 ## About this course
-The student will approve the course by attending a series of [lectures](slides/README.md), performing hands-on [laboratories](laboratories/README.md), and carrying out a final project or essay. This course consists of 12 hours of lectures, 18 hours of hands-on laboratories, 4 hours for consultations, and 70 hours to develop the project. The course lasts fifteen weeks. The responsible for this course is Juan Pablo Olvier at FING/UDELAR, Montevideo, Uruguay.
+The student will approve the course by attending a series of [lectures](slides/), performing hands-on [laboratories](laboratories/), and carrying out a final project or essay. This course consists of 12 hours of lectures, 18 hours of hands-on laboratories, 4 hours for consultations, and 70 hours to develop the project. The course lasts fifteen weeks. The responsible for this course is Juan Pablo Olvier at FING/UDELAR, Montevideo, Uruguay.
 
 ## Main topics
-* **Introduction to low-power electronics.** Historic review of low power electronics and introduction to energy and power concepts.
+* **Introduction to low-power electronics.** Historical review of low-power electronics and introduction to energy and power concepts.
 
-* **Power consumption in CMOS circuits.** Dynamic and static power. The charge/discharge of a capacitor. Analysis of delay vs. power. The effect of the logic function and the input data in power consumption. The influence of glitches.
+* **Power consumption in CMOS circuits.** Dynamic and static power. The charge/discharge of a capacitor. Analysis of delay vs. power. The effect of the logic function and the input data on power consumption. The influence of glitches.
 
 * **Power reduction techniques.**. According to design abstraction levels: system, algorithm, architecture, logic/circuit, and device/process. Examples: dynamic and static power reduction, clock gating, power gating, etc.
 
 * **Modeling and estimation.** Power consumption models. Tools for power estimation.
 
-* **Power measurement techniques.** Analysis of different techniques. Problems arising in real system measurements. Specific laboratory equipment.
+* **Power measurement techniques.** Analysis of different methods. Problems arising in real-world system measurements. Specific laboratory equipment.
 
 ## What you will learn
-The student will learn about techniques and methodologies used in the design of low-power digital electronic systems. This includes power estimation and measurement techniques. At the end of the course, the student will be able to understand and characterize the consumption of a digital system, apply power reduction techniques, and incorporate the power consumption variable from early stages in new designs. The course is oriented towards digital hardware design, but it also covers embedded systems with microcontrollers.
+The student will learn about techniques and methodologies used in the design of low-power digital electronic systems. This includes power estimation and measurement techniques. At the end of the course, the student will be able to understand and characterize the consumption of a digital system, apply power reduction techniques, and incorporate the power consumption variable from early stages in new designs. The course is oriented toward digital hardware design, but it also covers embedded systems with microcontrollers.
 
 ## What you will need
 **Required skills**
@@ -37,6 +37,9 @@ The student will learn about techniques and methodologies used in the design of 
 ## Authors
 * Federico Favaro
 * Juan Pablo Oliver
+
+
+More information, material, and active discussion forums can be found [here](https://eva.fing.edu.uy/course/view.php?id=1317).
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
